@@ -1,0 +1,42 @@
+header h1 {
+    margin: 0;
+    font-family: 'Inconsolata', serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+section h2 {
+    margin: 0;
+    font-family: 'Space Mono', serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #333;
+}
+
+section p {
+    margin: 0;
+    font-family: 'Space Mono', serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #4f4f4f;
+}
+
+button {
+    font-family: 'Space Mono', serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #333;
+    width: 216px;
+    height: 68px;
+}
+
+footer {
+    font-family: 'Montserrat', serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #bdbdbd;
+}
